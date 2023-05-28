@@ -1,0 +1,9 @@
+export { default as HtmlIcon } from "./html5-original.svg";
+export { default as CssIcon } from "./css3-original.svg";
+export { default as JsIcon } from "./javascript-original.svg";
+export { default as ReactIcon } from "./react-original.svg";
+export { default as BootstrapIcon } from "./Bootstrap_logo.svg.png";
+export { default as JqueryIcon } from "./free-jquery-8-1175153.png";
+export { default as gitIcon } from "./git-original.svg";
+export { default as gitHubIcon } from "./github.svg";
+export { default as NextJsIcon } from "./nextjs.png";
